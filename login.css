@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+   /* background-image: url('data:image/jpeg;base64,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');
+   */ background-size: cover;
+    background-position: center;
+    background-color: lightslategrey;
+}
+.sign-up-form{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+    border-radius: 15px;
+}
+.sign-up-form h1{
+    color: #1c8adb;
+    margin-bottom: 30px;
+
+}
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: #1c8adb;
+}
+.signup-btn:active{
+    background-color: #57b5f9;
+}
+.google-btn{
+    background-color: #21afde;
+}
+.google-btn:active{
+    background-color: #64d0f4;
+}
+a{
+    text-decoration: none;
+    color: rgb(65, 94, 226);
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+img{
+    width: 70px;
+    margin-top: -50px;
+}
