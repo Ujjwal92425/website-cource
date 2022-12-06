@@ -82,3 +82,15 @@ transition: all 0.4s;
 cursor: pointer;
 border-radius: 20px;
 }
+.food {
+    
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 100px;
+    border: 10px white;
+    margin-left: 10px;
+    padding-top: 40px;
+    background-color: rgb(164, 160, 218);
+    border-radius: 20px;
+  }
