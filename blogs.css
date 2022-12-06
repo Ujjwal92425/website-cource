@@ -1,3 +1,25 @@
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 200px 200px;
+    gap: 10px;
+    background-color:rgb(16, 16, 16);
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 0.4s;
+    margin-left: 50px;
+    padding-left: 50px;
+    margin-right: 10px;
+    padding-right: 10px;
+    margin-top: 100px;
+  }
+
+  .grid-container2 >div:hover img{
+    transform: scale(1.2,1.2);
+    transition: all 0.8s;
+    cursor: pointer;
+    border-radius: 10px;
+  }
 .gallary{
     width: 80%;
     padding: 70px 0;
