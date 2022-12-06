@@ -1,5 +1,5 @@
 .gallary{
-    width: 100%;
+    width: 80%;
     padding: 70px 0;
 }
 
@@ -31,7 +31,7 @@
     margin: 10px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
+    grid-gap: 20px;
 }
 
 .gallary .gallary_image_box .gallary_image{

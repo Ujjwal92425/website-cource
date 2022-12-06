@@ -362,7 +362,7 @@ footer {
     color: #3F71EA;
 }
 
-@media (max-width: 880px) {
+
     .footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right {
         display: block;
         width: 100%;
@@ -372,7 +372,7 @@ footer {
     .footer-distributed .footer-center i {
         margin-left: 0;
     }
-}       
+     
         
 .slider {
     overflow: hidden;
@@ -452,25 +452,59 @@ footer {
   
   .item1{
     grid-area: I1;
+    height: 300px;
+    width: 300px;
   }
   .item2{
     grid-area: I2;
+    height: 300px;
+    width: 300px;
   
   }
   .item3{
     grid-area: I3;
+    height: 300px;
+    width: 300px;
   
   }
   .item4{
     grid-area: I4;
+    height: 100px;
+    width: 100px;
   }
   .item5{
     grid-area: I5;
+    height: 100px;
+    width: 100px;
   }
   .item6{
     grid-area: I6;
+    height: 100px;
+    width: 100px;
   
   }
   .item7{
     grid-area: I7;
+    height: 100px;
+    width: 100px;
+  }
+  .join  h5 {
+    font-size: larger;
+    font-weight: 200;
+    font-family: cursive;
+    color: yellow;
+    
+  }
+  .join img {
+    justify-content: center;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 30px;
+
+  }
+  .join h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    color: aqua;
+    margin-left: 300px;
   }
